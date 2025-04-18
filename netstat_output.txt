@@ -1,0 +1,41 @@
+ IPv4 Statistics,
+- Packets received: 3564414
+- Packets delivered: 3575246  
+- Output requests: 5717143
+- Received packets discarded: 33209
+
+IPv6 Statistics,  
+- Packets received: 677
+- Packets delivered: 1899
+- Output requests: 3419
+
+No significant changes over time.
+
+ICMPv4 Statistics,
+- Messages received: 263
+- Messages sent: 792
+- Destination unreachable (received): 259, (sent): 788 
+
+ICMPv6 Statistics,  
+- Messages sent: 170
+- Router solicitations (received): 0, (sent): 100
+- Neighbor solicitations (received): 0, (sent): 35
+
+TCP Statistics for IPv4,
+- Segments received: 1036233  
+- Segments sent: 1034255
+- Segments retransmitted: 5821
+
+TCP Statistics for IPv6,
+- Segments received: 7250
+- Segments sent: 7133  
+- Segments retransmitted: 117
+
+UDP Statistics for IPv4,
+- Datagrams received: 2465893
+- Datagrams sent: 4663625
+
+UDP Statistics for IPv6,
+- Datagrams received: 2939
+- Datagrams sent: 1953
+
